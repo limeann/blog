@@ -54,6 +54,7 @@
   </right>
   <right name="EditOtherUsersPosts">
     <role name="administrators" />
+    <role name="Editors" />
   </right>
   <right name="DeleteOwnPosts">
     <role name="administrators" />
@@ -68,6 +69,7 @@
   </right>
   <right name="PublishOtherUsersPosts">
     <role name="administrators" />
+    <role name="Editors" />
   </right>
   <right name="ViewPublicPages">
     <role name="administrators" />
