@@ -1,0 +1,66 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 10:59:17
+BlogEngine.Core.Packaging.Load: The underlying connection was closed: An unexpected error occurred on a receive.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:15:03
+BlogEngine.Core.Packaging.Load: The underlying connection was closed: An unexpected error occurred on a receive.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:16:58
+Error editing profile: Object reference not set to an instance of an object.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:16:58
+GET http://myblog.test.com/api/users?filter=1+%3d%3d+1&order=UserName&skip=0&take=0: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:17:03
+GET http://myblog.test.com/api/users?filter=1+%3d%3d+1&order=UserName&skip=0&take=0: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:17:23
+GET http://myblog.test.com/api/users?filter=1+%3d%3d+1&order=UserName&skip=0&take=0: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:17:30
+GET http://myblog.test.com/api/users?filter=1+%3d%3d+1&order=UserName&skip=0&take=0: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:17:32
+GET http://myblog.test.com/api/users/Admin: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:17:47
+GET http://myblog.test.com/api/users/Admin: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:17:54
+GET http://myblog.test.com/api/users?filter=1+%3d%3d+1&order=UserName&skip=0&take=0: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:18:01
+GET http://myblog.test.com/api/users/Admin: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:19:27
+BlogEngine.Core.Packaging.Load: The underlying connection was closed: An unexpected error occurred on a receive.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:19:52
+Error deleting role: Rights can not be removed from the administrative role
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:19:59
+Error deleting role: Rights can not be removed from the administrative role
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:20:46
+Error editing profile: Object reference not set to an instance of an object.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:20:46
+GET http://myblog.test.com/api/users?filter=1+%3d%3d+1&order=UserName&skip=0&take=0: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:20:51
+GET http://myblog.test.com/api/users?filter=1+%3d%3d+1&order=UserName&skip=0&take=0: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:20:59
+GET http://myblog.test.com/api/users?filter=1+%3d%3d+1&order=UserName&skip=0&take=0: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:21:07
+GET http://myblog.test.com/api/users?filter=1+%3d%3d+1&order=UserName&skip=0&take=0: Item has already been added. Key in dictionary: 'Admin'  Key being added: 'admin'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:22:33
+BlogEngine.Core.Packaging.Load: The underlying connection was closed: An unexpected error occurred on a receive.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:28:23
+Error editing profile: Object reference not set to an instance of an object.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 21/04/2023 15:28:47
+Error editing profile: Object reference not set to an instance of an object.
